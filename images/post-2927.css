@@ -1,0 +1,316 @@
+.elementor-2927 .elementor-element.elementor-element-bc96006 > .elementor-container{max-width:1366px;min-height:100vh;}.elementor-2927 .elementor-element.elementor-element-bc96006{padding:40px 40px 40px 40px;}.elementor-2927 .elementor-element.elementor-element-7cbc000 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-2927 .elementor-element.elementor-element-7cbc000 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-2927 .elementor-element.elementor-element-d422e39 > .elementor-widget-container{margin:40px 0px 0px 0px;}:root{--page-title-display:none;}@media(max-width:767px){.elementor-2927 .elementor-element.elementor-element-bc96006{padding:20px 20px 20px 20px;}}/* Start custom CSS for wc-elements, class: .elementor-element-20194b0 */.elementor-2927 .elementor-element.elementor-element-20194b0{
+    font-family: 'Cabin', Sans-Serif;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 table{
+    border-radius: 5px;
+    border: 0;
+    background: #fff;
+    margin: 0;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 thead th{
+    background: #F8BC1C;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 thead th:first-child{
+    border-radius: 5px 0 0 0;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 thead th:last-child{
+    border-radius: 0 5px 0 0;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 th{
+    border: 0;
+    padding: 16px !important;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 tbody td{
+    border: 0;
+    padding: 8px 16px;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 td.product-remove a{
+    margin: 0 auto;
+    color: #f73939 !important;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 td.product-remove a:hover{
+    background: #f73939 !important;
+    color: #fff !important;;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 td.product-thumbnail a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 td.product-thumbnail a img{
+    width: 100%;
+    max-width: 64px;
+    border-radius: 3px;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 td.product-name a{
+    font-weight: bold;
+    color: #000 !important;
+    pointer-events: none;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 input{
+    min-width: 100%;
+    border: 0;
+    text-align: left !important;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 tr:last-child td{
+    padding: 0 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 button{
+    width: 100% !important;
+    padding: 16px !important;
+    border-radius: 5px !important;
+    margin-top: 16px;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 button:enabled{
+    background: #F8BC1C;
+    color: #000;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 button:enabled:hover{
+    background: #F8BC1Cbf;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-message, .elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-info{
+    border-top-color: #F8BC1C !important;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-message::before, .elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-info::before{
+    color: #F8BC1C !important;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-message a, .elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-info a{
+    font-weight: bold !important;
+    color: #000 !important;
+    transition: all 0.3s ease !important;
+}
+.elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-message a:hover, .elementor-2927 .elementor-element.elementor-element-20194b0 .woocommerce-info a:hover{
+    color: #F8BC1C !important;
+}
+
+@media all and (max-width: 768px){
+    .elementor-2927 .elementor-element.elementor-element-20194b0 .quantity input{
+        min-width: 128px;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-quantity{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 tr.woocommerce-cart-form__cart-item{
+        margin-bottom: 16px;
+        display: flex;
+        flex-direction: column;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-name{
+        border-radius: 5px 5px 0 0 !important;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-name{
+        padding-top: 16px;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-remove{
+        order: 1;
+        padding-top: 0;
+        border-radius: 0 0 5px 5px !important;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-remove a{
+        padding: 8px 0;
+        height: auto;
+        width: fit-content;
+        border-radius: 2px;
+        padding: 12px 16px;
+        margin: 0;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-remove a::after{
+        content: 'Șterge din coș';
+        font-size: 16px;
+        display: inline-block;
+        margin-left: 8px;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 table::before{
+        content: 'Coșul tău';
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 16px !important;
+        display: inline-block;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 td.product-thumbnail{
+        display: none;
+    }
+    .elementor-2927 .elementor-element.elementor-element-20194b0 tr{
+        width: 100%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for wc-elements, class: .elementor-element-d422e39 */.elementor-2927 .elementor-element.elementor-element-d422e39{
+    font-family: 'Cabin', Sans-Serif;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .field-pj{
+    display: none;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 h3, .elementor-2927 .elementor-element.elementor-element-d422e39 h3 span{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: #000 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 h3 label{
+    opacity: 1;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 h3 input{
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 input, .elementor-2927 .elementor-element.elementor-element-d422e39 select, .elementor-2927 .elementor-element.elementor-element-d422e39 textarea{
+    border: 1px solid #e7e7e7;
+    background: #f7f7f7;
+    font-size: 16px;
+    padding: 8px 16px !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 label{
+    font-size: 14px !important;
+    font-weight: bold;
+    opacity: 0.75;
+    line-height: 1.5em !important;
+    margin-bottom: 4px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .form-row{
+    padding: 0;
+    margin: 0;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-billing-fields__field-wrapper, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-additional-fields__field-wrapper, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-shipping-fields__field-wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-gap: 24px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-billing-fields__field-wrapper > p, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-shipping-fields__field-wrapper > p{
+    width: 100%;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .form-row-wide{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-billing-fields__field-wrapper .form-row-wide + .form-row-wide, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-shipping-fields__field-wrapper .form-row-wide + .form-row-wide{
+    margin-top: -16px;
+    margin-bottom: 24px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 p.facturare span label{
+    opacity: 1;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 p.facturare span input:not(:first-child){
+    margin-left: 16px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 table{
+    border-radius: 5px;
+    border: 0;
+    background: #fff;
+    margin: 0;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 thead{
+    border-radius: 5px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 th{
+    border: 0;
+    padding: 16px !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 tbody td{
+    border: 0;
+    padding: 8px 16px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 tfoot{
+    border: 0;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 tfoot th{
+    background: #fff;
+    border: 0;
+    vertical-align: middle;
+    text-align: right;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 tfoot td{
+    border: 0;
+    font-weight: normal !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 a{
+    color: #F8BC1C;
+    font-weight: bold;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 tfoot label{
+    color: #000 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 #payment{
+    background: #f7f7f7 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-terms-and-conditions-wrapper{
+    display: none;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 ul.wc_payment_methods{
+    border-bottom: 0 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .place-order{
+    padding-top: 0 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 button{
+    width: 100%;
+    padding: 16px;
+    background: #F8BC1C !important;
+    color: #000 !important;
+    transition: all 0.3s ease;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 button:hover{
+    background: #F8BC1CBF !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 thead th{
+    background: #F8BC1C;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 thead th:first-child{
+    border-radius: 5px 0 0 0 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 thead th:last-child{
+    border-radius: 0 5px 0 0 !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 #customer_details{
+    margin-bottom: 40px;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-message, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-info{
+    border-top-color: #F8BC1C !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-message::before, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-info::before{
+    color: #F8BC1C !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-message a, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-info a{
+    font-weight: bold !important;
+    color: #000 !important;
+    transition: all 0.3s ease !important;
+}
+.elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-message a:hover, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-info a:hover{
+    color: #F8BC1C !important;
+}
+
+
+@media all and (max-width: 1024px){
+    .elementor-2927 .elementor-element.elementor-element-d422e39 .col2-set{
+        display: flex;
+        flex-direction: column;
+    }
+    .elementor-2927 .elementor-element.elementor-element-d422e39 .col2-set > div{
+        width: 100% !important;
+    }
+    .elementor-2927 .elementor-element.elementor-element-d422e39 .col-2{
+        margin-top: 24px !important;
+    }
+}
+
+@media all and (max-width: 767px){
+    .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-billing-fields__field-wrapper, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-additional-fields__field-wrapper, .elementor-2927 .elementor-element.elementor-element-d422e39 .woocommerce-shipping-fields__field-wrapper{
+        grid-template-columns: minmax(0, 1fr) !important;
+    }
+    .elementor-2927 .elementor-element.elementor-element-d422e39 .form-row-wide{
+        grid-column-end: 2
+    }
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-bc96006 */.elementor-2927 .elementor-element.elementor-element-bc96006 > .elementor-container{
+    min-height: calc(100vh - 296px) !important;
+}/* End custom CSS */
